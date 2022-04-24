@@ -2,3 +2,7 @@
 # project2-2021
 please install pillow:
 $ python -m pip install Pillow
+if Error:Django no such table: django_session
+Please input 
+python manage.py migrate
+at the terminal
